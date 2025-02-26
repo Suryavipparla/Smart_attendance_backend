@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+numpy
+opencv-python
+deepface
+aiofiles
+tf-keras
+cryptography
+python-multipart
+bcrypt
